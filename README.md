@@ -9,9 +9,10 @@ SGD
 GD
 
 大型陣列:
-1.vector
-2.array串起來
-3.malloc
+1.malloc
+2.vector
+3.array串起來
+
 
 新增:
 捲積
