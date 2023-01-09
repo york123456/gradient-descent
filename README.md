@@ -15,3 +15,9 @@ GD
 捲積
 maxpooling
 Dropout
+
+cv2 c++ plot
+
+
+
+AutoML
